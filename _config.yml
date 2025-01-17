@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "pfp.png"
-  name             : "Your Sidebar Name"
+  name             : "David Fernandez"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "San Diego"
+  employer         : "Independent Dev"
   uri              : # URL
   email            : "none@example.org" 
 
