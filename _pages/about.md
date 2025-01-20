@@ -11,7 +11,7 @@ My name is David, I'm a game designer and developer passionate about making vide
 
 One of the first videogames I ever played back in 1998 was MediEvil on my new PlayStation console. Besides being stuck at the beginning surrounded by goblins and caverns for 3 months, I loved playing it even though I was only 6 years old. Soon after Legacy of Kain, Devil May Cry, and after the years Oblivion, Demon’s Souls, and then graduated to action RPG games like GOW, Bloodborne. To say that I love open world RPG action fighting is kind of an understatement. 
 
-As one could imagine it has brought me much joy working at studios like 2k Vegas and Playstation San Diego where I’ve proudly worked on and helped ship numerous titles such as Borderlands 3, The Last of Us Part 2, God of War Ragnarok, Demon’s Souls Remake alongside PS5’s public launch and even countless retro titles for PS Classics Catalog.
+As one could imagine it's brought me a ton of joy working at studios like 2k Vegas and Playstation San Diego where I’ve proudly worked on and helped ship numerous titles such as Borderlands 3, The Last of Us Part 2, God of War Ragnarok, Demon’s Souls Remake alongside PS5’s public launch and even countless retro titles for PS Classics Catalog.
 
 I am currently solo developing a hack and slash RPG in Unreal Engine 5 using custom 3d model rigs as well as pre-rendered assests from Epic Games' Marketplace. 
 
