@@ -17,6 +17,6 @@ I am currently solo developing a hack and slash RPG in Unreal Engine 5 using cus
 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Download Now
 ------
 Read the [Game Design docs](/portfolio/), for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more. 
