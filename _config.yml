@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+op# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "CS Undergraduate, Game Development"
   location         : "San Diego"
-  employer         : "Independent Dev"
+  employer         : "Independent Developer"
   uri              : "www.DavidFgamedev.com"
   email            : "dsfprogramming@gmail.com" 
 
