@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is David, I'm a game designer and developer passionate about video games and pushing their boundaries, helping transform feature concepts into a playable reality. I am currently studying Computer Science at Cal state and graduated from Vertex School's Unreal Engine Game Development with C++ program. With over five years of experience in game testing and programming, I bring efficient intuitive approaches from debugging and object orientation to gameplay programming. My skillset extends to UE5, C++, Python, and a suite of testing and  development tools, enabling to craft fun and engaging game experiences.
+My name is David, I'm a game designer and developer passionate about video games and pushing their boundaries, transforming feature concepts into a playable reality. I am currently studying Computer Science at Cal state and graduated from Vertex School's Unreal Engine Game Development with C++ program. With over five years of experience in game testing and programming, I bring efficient intuitive approaches from debugging and object orientation to gameplay programming. My skillset extends to UE5, C++, Python, and a suite of testing and  development tools, enabling to craft fun and engaging game experiences.
 
 
 I am currently solo developing a hack and slash RPG in Unreal Engine 5 using assests from the Epic Games Marketplace and Quixel Bridge.
