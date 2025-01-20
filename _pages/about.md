@@ -14,9 +14,8 @@ One of the first videogames I ever played back in 1998 was MediEvil on my new Pl
 As one could imagine it's brought me a ton of joy working at studios like 2k Vegas and Playstation San Diego where I’ve proudly worked on and helped ship numerous titles such as Borderlands 3, The Last of Us Part 2, God of War Ragnarok, Demon’s Souls Remake alongside PS5’s public launch and even countless retro titles for PS Classics Catalog. With the industry constantly innovating new proprietary software, I’ve found adapting to be one of my best abilities. 
 
 I am currently solo developing a hack and slash RPG in Unreal Engine 5 using custom 3d model rigs as well as pre-rendered assests from Epic Games' Marketplace.
-
-playable beta version available*
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+playable beta version available*
 
 [Download Here](https://drive.google.com/drive/folders/1w6t2alEEw22MqjxGT02xZT-7TajEzfse?usp=sharing)
 ------
