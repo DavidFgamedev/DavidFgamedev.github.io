@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello There"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a recent graduate from Vertex School's Unreal Engine Game Development program pursuing a BS in Computer Science for Cal state.
+With over five years of experience in game testing and programming, I bring efficient intuitive approaches from debugging and object orientation to gameplay programming.
+My skillset extends to UE5, C++, Python, and a suite of testing and  development tools, enabling to craft fun and engaging game experiences.
+Passionate about video games and pushing their boundaries, I strive to help transform feature concepts into a playable reality.
+I am currently solo developing a hack and slash
+RPG in Unreal Engine 5 using assests from the Epic Games Marketplace and Quixel Bridge.
+Read the Documentation page for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more.
 
 A data-driven personal website
 ======
