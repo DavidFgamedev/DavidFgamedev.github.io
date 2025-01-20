@@ -11,7 +11,7 @@ My name is David, I'm a game designer and developer passionate about making vide
 
 One of the first videogames I ever played back in 1998 was MediEvil on my new PlayStation console. Besides being stuck at the beginning surrounded by goblins and caverns for 3 months, I loved playing it even though I was only 6 years old. Soon after Legacy of Kain, Devil May Cry, and after the years Oblivion, Demon’s Souls, and then graduated to action RPG games like GOW, Bloodborne. To say that I love open world RPG action fighting is kind of an understatement. It has been part of my creative side ever since I was a child. 
 
-I am currently solo developing a hack and slash RPG in Unreal Engine 5 using assests from the Epic Games Marketplace and Quixel Bridge. Read the Documentation page for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more.
+I am currently solo developing a hack and slash RPG in Unreal Engine 5 using custom 3d model rigs as well as assests from Epic Games' Marketplace. 
 
 
 Download Now!
@@ -19,4 +19,4 @@ Download Now!
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info Read the Documentation page for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more. about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
