@@ -24,11 +24,11 @@ author:
   avatar           : "pfp.png"
   name             : "David Fernandez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science Undergraduate, Game Development"
   location         : "San Diego"
   employer         : "Independent Dev"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "www.DavidFgamedev.com"
+  email            : "dsfprogramming@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
