@@ -15,7 +15,7 @@ I am currently solo developing a hack and slash RPG in Unreal Engine 5 using ass
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.PNG)
 
 For more info
 ------
