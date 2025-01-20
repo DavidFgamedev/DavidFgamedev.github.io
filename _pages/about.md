@@ -20,4 +20,4 @@ playable beta version available*
 
 [Download Here](https://drive.google.com/drive/folders/1w6t2alEEw22MqjxGT02xZT-7TajEzfse?usp=sharing)
 ------
-Read the [Game Design](/portfolio/), for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more. 
+Read the [Game Design](/portfolio/), for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and Behavior Trees, and more. 
