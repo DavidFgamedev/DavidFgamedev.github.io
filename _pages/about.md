@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from Vertex School's Unreal Engine Game Development program pursuing a BS in Computer Science for Cal state.
+My name is David, a recent graduate from Vertex School's Unreal Engine Game Development program also pursuing a BS in Computer Science at Cal state.
 With over five years of experience in game testing and programming, I bring efficient intuitive approaches from debugging and object orientation to gameplay programming.
 My skillset extends to UE5, C++, Python, and a suite of testing and  development tools, enabling to craft fun and engaging game experiences.
 Passionate about video games and pushing their boundaries, I strive to help transform feature concepts into a playable reality.
