@@ -1,4 +1,4 @@
-op# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,9 +24,9 @@ author:
   avatar           : "pfp.png"
   name             : "David Fernandez"
   pronouns         : # example: "she/her"  
-  bio              : "CS Undergraduate, Game Development"
+  bio              : "Computer Science Undergraduate, Game Development"
   location         : "San Diego"
-  employer         : "Independent Developer"
+  employer         : "Independent Dev"
   uri              : "www.DavidFgamedev.com"
   email            : "dsfprogramming@gmail.com" 
 
