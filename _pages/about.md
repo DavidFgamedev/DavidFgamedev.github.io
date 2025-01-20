@@ -9,7 +9,9 @@ redirect_from:
 
 My name is David, I'm a game designer and developer passionate about making video games and pushing their boundaries, transforming feature concepts into a playable reality. I am currently studying Computer Science at Cal state and graduated from Vertex School's Unreal Engine Game Development with C++ program. My skillset extends to UE5, C++, Python, and a suite of testing and  development tools, enabling to craft fun and engaging game experiences.
 
-One of the first videogames I ever played back in 1998 was MediEvil on my new PlayStation console. Besides being stuck at the beginning surrounded by goblins and caverns for 3 months, I loved playing it even though I was only 6 years old. I am currently solo developing a hack and slash RPG in Unreal Engine 5 using assests from the Epic Games Marketplace and Quixel Bridge. Read the Documentation page for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more.
+One of the first videogames I ever played back in 1998 was MediEvil on my new PlayStation console. Besides being stuck at the beginning surrounded by goblins and caverns for 3 months, I loved playing it even though I was only 6 years old. Soon after Legacy of Kain, Devil May Cry, and after the years God of War, Demon’s Souls, and then graduated to action RPG games like Oblivion, Bloodborne. To say that I love the action RPG fighting genre is kind of an understatement. It has been part of my creative side ever since I was a child. 
+
+I am currently solo developing a hack and slash RPG in Unreal Engine 5 using assests from the Epic Games Marketplace and Quixel Bridge. Read the Documentation page for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more.
 
 
 Example: editing a markdown file for a talk
