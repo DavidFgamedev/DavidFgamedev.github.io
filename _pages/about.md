@@ -13,8 +13,6 @@ One of the first videogames I ever played back in 1998 was MediEvil on my new Pl
 
 I am currently solo developing a hack and slash RPG in Unreal Engine 5 using custom 3d model rigs as well as pre-rendered assests from Epic Games' Marketplace. 
 
-
-Download Now!
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
