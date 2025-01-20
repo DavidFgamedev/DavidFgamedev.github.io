@@ -14,7 +14,7 @@ One of the first videogames I ever played back in 1998 was MediEvil on my new Pl
 I am currently solo developing a hack and slash RPG in Unreal Engine 5 using assests from the Epic Games Marketplace and Quixel Bridge. Read the Documentation page for a comprehensive breakdown of the game. Watch demo footage, review my C++ and Python Scripts on Github, examine Blueprint structures and behavior trees, and more.
 
 
-Example: editing a markdown file for a talk
+Download Now!
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
