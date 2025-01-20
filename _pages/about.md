@@ -16,7 +16,7 @@ As one could imagine it's brought me a ton of joy working at studios like 2k Veg
 I am currently solo developing a hack and slash RPG in Unreal Engine using custom 3d model rigs as well as pre-rendered assests from Epic Games' Marketplace.
 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-playable beta version available*
+playable beta version is available*
 
 [Download Here](https://drive.google.com/drive/folders/1w6t2alEEw22MqjxGT02xZT-7TajEzfse?usp=sharing)
 ------
