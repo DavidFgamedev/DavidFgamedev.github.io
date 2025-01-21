@@ -9,8 +9,7 @@ main:
     url: /portfolio/
 
   - title: "Resume"
-    url: <object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object> 
-
+    url: /cv/
  # - title: "Publications"
  #  url: /publications/    
     
