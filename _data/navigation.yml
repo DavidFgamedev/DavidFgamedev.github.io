@@ -9,7 +9,7 @@ main:
     url: /portfolio/
 
   - title: "Resume"
-    files: /devops_resume.pdf/  
+    url: /cv/  
 
  # - title: "Publications"
  #  url: /publications/    
