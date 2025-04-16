@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is David, I'm a game designer and developer passionate about making video games and pushing their boundaries, transforming feature concepts into a playable reality. I am currently studying Computer Science at Cal state and graduated from Vertex School's Unreal Engine Game Development with C++ program. My skillset extends to UE5, C, Python, and a suite of testing and  development tools, enabling to craft fun and engaging game experiences.
+My name is David, I'm a game designer and developer passionate about making video games. I graduated from Vertex School's Unreal Engine Game Development with C++ program and currently studying Computer Science at Cal State. My skillset extends to UE5, C, Python, and a suite of testing and development tools, enabling to craft fun and engaging game experiences.
 
 One of the first videogames I ever played back in 1998 was MediEvil on my new PlayStation console. Besides being stuck at the beginning surrounded by goblins and caverns for months, I loved playing it even though I was only 6 years old. Soon after Legacy of Kain, Devil May Cry, and after the years Oblivion, Demon’s Souls, and then graduated to action RPG games like GOW, Bloodborne. To say that I love open world RPG action fighting is kind of an understatement. 
 
