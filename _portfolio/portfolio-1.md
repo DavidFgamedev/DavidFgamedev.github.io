@@ -1,19 +1,3 @@
----
-layout: base
----
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-</article>
-
----
 title: "As the gaming industry has progressed, many attempts have been made to formalize and simulate games’ internal structures, especially in the field of “serious” and educational projects. Each of these models deserves to exist and serves their purpose. However, we should bear in mind that a particular model may not be suitable for your particular case.
 Before we take a look at my game design model, here are some examples of formalized game mechanics with some explanation and links to further information:
 The MDA framework — mechanics-dynamics-aesthetics. A game designer creates rules — “mechanics”; these rules start working in the game and start generating some kind of “dynamics”, which, in their turn, have an emotional impact on the player, and this is called “aesthetics”.
