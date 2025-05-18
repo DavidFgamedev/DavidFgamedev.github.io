@@ -1,15 +1,3 @@
----
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
 
 As the gaming industry has progressed, many attempts have been made to formalize and simulate games’ internal structures, especially in the field of “serious” and educational projects. Each of these models deserves to exist and serves their purpose. However, we should bear in mind that a particular model may not be suitable for your particular case.
 Before we take a look at my game design model, here are some examples of formalized game mechanics with some explanation and links to further information:
