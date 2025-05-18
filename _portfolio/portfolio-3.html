@@ -1,7 +1,21 @@
 ---
-title: "Advanced Editor, Materials, Landscaping, Dev Tools"
+title: "Let’s try and build a game model"
 excerpt: "All animated materials were made in blueprint event graphs using nodes. The landscape material was also created using nodes and can be called via python scripts packed with chatGPT Ul compatibility.All animated materials were made in blueprint event graphs using nodes. The landscape material was also created using nodes and can be called via python scripts packed with chatGPT Ul compatibility. <br/><img src='/images/editing-talk.png'>"
 collection: portfolio
 ---
 
 All animated materials were made in blueprint event graphs using nodes. The landscape material was also created using nodes and can be called via python scripts packed with chatGPT Ul compatibility.All animated materials were made in blueprint event graphs using nodes. The landscape material was also created using nodes and can be called via python scripts packed with chatGPT Ul compatibility. <br/><img src='/images/editing-talk.png'>
+
+First off, let’s try to think of each game we’ll deal with like some kind of a black box. Players somehow interact with the box, applying mental or physical “effort” in the process. If the game is good, the player is satisfied (although, the definition of this “satisfaction” is beyond the scope of this article.)
+For now, we’re more interested in the structure of our black box. How exactly do the players interact with it? What actions do they take?
+When interacting with a game, players repeatedly go through a cycle of actions, sometimes consciously, sometimes not. This is called a “game loop” and we can break it down into steps:
+Current game state assessment
+Current goal realization
+Multiple available actions assessment
+Development of actions set to achieve the goal, i.e., choosing a strategy (or making a decision)
+Planned actions implementation
+Receiving feedback through the game state change
+Return to the loop start
+
+The primary (but not the only) sources of interest and satisfaction here are the stages of choosing and implementing a strategy — it’s during these moments where players decide which gun to use (and against which enemy), then check their motor skills when taking aim with the help of the mouse/controller. Other stages have more of a supportive function, but are no less important. Developers can fumble any point of game loop design, leading to an overall poor game quality.
+With that out of the way, let’s consider each stage of the game cycle in more detail.
