@@ -11,8 +11,8 @@ main:
   - title: "Resume"
     url: https://drive.google.com/file/d/1l43VJsx6MKZs8gudNdS5cwxkcOsipFMY/view?usp=share_link
     
- # - title: "Publications"
- #  url: /publications/    
+  - title: "Posts"
+   url: /posts/    
     
  # - title: "talks"
  #  url: /talks/
